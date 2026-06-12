@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lennys-podcast-transcripts
+  description: Lennys Podcast transcript archive for AI use
+spec:
+  owner: product
+  type: documentation
+  lifecycle: experimental
